@@ -1,0 +1,4 @@
+cv2
+pytesseract
+Image
+pytesseract opencv-python-headless pillow
